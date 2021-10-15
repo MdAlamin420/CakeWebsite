@@ -20,7 +20,7 @@ body{
 }
 
 header{
-    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('../web/images/cake.jpg');
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('cake.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 
